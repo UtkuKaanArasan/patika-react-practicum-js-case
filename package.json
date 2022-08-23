@@ -1,0 +1,14 @@
+{
+  "name": "react-practicum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "odd-or-even.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.7"
+  }
+}
